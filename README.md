@@ -41,3 +41,28 @@ The results are stored in `output.csv`.
 
 # Project Structure 
 <img width="417" height="502" alt="image" src="https://github.com/user-attachments/assets/244a89d7-edd3-49c4-b83f-5b28d83d0f76" />
+
+
+# Applications
+- DBT (Direct Benefit Transfer)  
+- Scholarship systems  
+- Subsidy distribution  
+- Government welfare schemes  
+
+# Advantages
+- Automated fraud detection  
+- Scalable solution  
+- Reduces manual effort  
+- Improves transparency  
+
+# Future Enhancements
+- Real-time data integration  
+- Dashboard using Streamlit  
+- Aadhaar-based verification  
+- Advanced ML models  
+
+# Conclusion
+This project demonstrates how AI can help detect fraud in government schemes by identifying abnormal transaction patterns, ensuring fair distribution of benefits.
+
+# Author  
+- Team Name DataX
