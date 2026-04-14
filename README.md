@@ -64,5 +64,27 @@ The results are stored in `output.csv`.
 # Conclusion
 This project demonstrates how AI can help detect fraud in government schemes by identifying abnormal transaction patterns, ensuring fair distribution of benefits.
 
+# How to Run the Project
+
+1. Open the project folder in VS Code
+2. Open terminal
+
+3. Install required libraries:
+   pip install pandas scikit-learn
+
+4. Run the project:
+   python fraud_detection.py
+
+5. Check the output:
+   Open output.csv to see fraud detection results
+
+# Dependencies
+- pandas
+- scikit-learn
+
+# Setup Instructions
+- Keep data.csv in the same folder as fraud_detection.py
+- Run the script to generate output.csv
+
 # Author  
 - Team Name DataX
